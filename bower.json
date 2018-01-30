@@ -25,6 +25,8 @@
   ],
 
   "dependencies": {
+
+"syncfusion-ej-global": "*",
 	
 	"jquery": "*",
 

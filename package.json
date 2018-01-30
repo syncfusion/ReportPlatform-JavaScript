@@ -34,7 +34,7 @@
 
   "dependencies": {
  
-"syncfusion-ej-global": "*",
+   "syncfusion-ej-global": "*",
 
     "jquery": "*",
 
@@ -82,4 +82,5 @@
           "Scripts/web/ej.web.all*.js",
           "Scripts/web/ej.web.all.min.map"
        ]
+	   }
     }

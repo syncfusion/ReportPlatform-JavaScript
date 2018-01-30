@@ -1,0 +1,58 @@
+
+
+{
+
+  "name": "syncfusion-reportplatform-javascript",
+
+  "version": "15.4.20",
+
+  "description": "Npm package of Syncfusion.ReportPlatform.JavaScript.",
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/syncfusion/ReportPlatform-JavaScript.git"
+
+  },
+
+  "keywords": [
+
+    "syncfusion",
+
+    "ej",
+
+    "essential",
+
+    "javascript"
+
+  ],
+
+  "author": "Syncfusion Inc",
+
+  "license": "SEE LICENSE IN README.md",
+
+  "dependencies": {
+
+    "jquery": "*",
+
+    "jquery-validation": "*",
+
+    "jsrender": "*"
+
+  },
+
+  "bugs": {
+
+    "url": "https://github.com/syncfusion/ReportPlatform-JavaScript.git/issues"
+
+  },
+
+  "homepage": "https://github.com/syncfusion/ReportPlatform-JavaScript.git#readme",
+  
+  "files": [
+        "Scripts/",
+        "Content/"
+    ] 
+}
+

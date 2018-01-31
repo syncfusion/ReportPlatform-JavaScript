@@ -12,7 +12,7 @@
 
     "type": "git",
 
-    "url": "git+https://github.com/syncfusion/ReportPlatform-JavaScript.git"
+    "url": "git+https://github.com/Syncfusion-JavaScript/ReportPlatform-JavaScript.git"
 
   },
 
@@ -46,11 +46,11 @@
 
   "bugs": {
 
-    "url": "https://github.com/syncfusion/ReportPlatform-JavaScript.git/issues"
+    "url": "https://github.com/Syncfusion-JavaScript/ReportPlatform-JavaScript.git/issues"
 
   },
 
-  "homepage": "https://github.com/syncfusion/ReportPlatform-JavaScript.git#readme",
+  "homepage": "https://github.com/Syncfusion-JavaScript/ReportPlatform-JavaScript.git#readme",
   
    "files": [
         "Scripts/",

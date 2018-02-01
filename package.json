@@ -12,7 +12,7 @@
 
     "type": "git",
 
-    "url": "git+https://github.com/Syncfusion-JavaScript/ReportPlatform-JavaScript.git"
+    "url": "git+https://github.com/syncfusion/ReportPlatform-JavaScript.git"
 
   },
 
@@ -46,11 +46,11 @@
 
   "bugs": {
 
-    "url": "https://github.com/Syncfusion-JavaScript/ReportPlatform-JavaScript.git/issues"
+    "url": "https://github.com/syncfusion/ReportPlatform-JavaScript/issues"
 
   },
 
-  "homepage": "https://github.com/Syncfusion-JavaScript/ReportPlatform-JavaScript.git#readme",
+  "homepage": "https://github.com/syncfusion/ReportPlatform-JavaScript#readme",
   
    "files": [
         "Scripts/",
@@ -82,5 +82,5 @@
           "Scripts/web/ej.web.all*.js",
           "Scripts/web/ej.web.all.min.map"
        ]
-	   }
     }
+}

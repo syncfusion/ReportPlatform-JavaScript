@@ -1,0 +1,40 @@
+
+
+{
+
+  "name": "syncfusion-javascript-reportplatform",
+
+  "version": "2.3.77",
+
+  "description": "Bower package of Syncfusion.ReportPlatform.JavaScript.",
+	
+  "authors": [
+    "Syncfusion Inc"
+  ],
+  
+  "license": "SEE LICENSE IN README.md",
+	
+  "homepage": "https://github.com/syncfusion/ReportPlatform-JavaScript#readme",
+
+  "ignore": [
+
+    ".npmignore",
+
+    "package.json"
+
+  ],
+
+  "dependencies": {
+
+"syncfusion-ej-global": "*",
+	
+	"jquery": "*",
+
+    "jquery-validation": "*",
+
+    "jsrender": "*"
+
+  }
+
+}
+

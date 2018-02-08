@@ -56,9 +56,5 @@
       "Scripts/web/ej.web.all*.js",
       "Scripts/web/ej.web.all.min.map"
     ]
-  },
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  }  
 }

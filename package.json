@@ -18,9 +18,9 @@
   "license": "SEE LICENSE IN README.md",
   "dependencies": {
     "syncfusion-ej-global": "*",
-    "jquery": "*",
-    "jquery-validation": "*",
-    "jsrender": "*"
+    "jquery": ">=1.9.0",
+    "jquery-validation": ">=1.19.5",
+    "jsrender": ">=0.9.74"
   },
   "bugs": {
     "url": "https://github.com/syncfusion/ReportPlatform-JavaScript/issues"
@@ -40,9 +40,9 @@
     ],
     "dependencies": {
       "syncfusion-ej-global": "*",
-      "jquery": "*",
-      "jsrender": "*",
-      "jquery-validation": "*"
+      "jquery": ">=1.9.0",
+      "jsrender": ">=0.9.74",
+      "jquery-validation": ">=1.19.5"
     },
     "ignore": [
       "Scripts/common/ej.unobtrusive.min.js",

@@ -28,11 +28,11 @@
 
 "syncfusion-ej-global": "*",
 	
-	"jquery": "*",
+	"jquery": ">=1.9.0",
 
-    "jquery-validation": "*",
+    "jquery-validation": ">=1.19.5",
 
-    "jsrender": "*"
+    "jsrender": ">=0.9.74"
 
   }
 
